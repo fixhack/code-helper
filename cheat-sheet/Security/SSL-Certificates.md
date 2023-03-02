@@ -19,6 +19,7 @@ Ensure to pass the certificate domain as the first domain passed with `-d`!
 
 ## Pricing
 
+-   [ssls.com](https://www.ssls.com): 4 USD
 -   [sslshopper.com](https://www.sslshopper.com): Price Comparison with
     different cert types
 -   Free certificates:

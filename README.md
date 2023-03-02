@@ -127,6 +127,8 @@ Markdown sources for all the cheat sheets found at https://code-helper.teqsoft.x
  | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/DevOps Services/memcached'>memcached</a>
  | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/DevOps Services/nginx'>nginx</a>
  | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/DevOps Services/sqlite'>sqlite</a>
+ | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/DevOps Services/wsgidav'>Wsgidav</a>
+  | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/DevOps Services/Postman'>Postman</a>
 <br/><span class='group'><b>Languages</b></span>
  | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/Languages/CSS'>CSS</a>
  | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/Languages/Dev-Misc'>Dev-Misc</a>
@@ -159,6 +161,7 @@ Markdown sources for all the cheat sheets found at https://code-helper.teqsoft.x
  | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/Network/rsync'>rsync</a>
  | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/Network/tcpdump'>tcpdump</a>
  | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/Network/unbound'>unbound</a>
+ | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/Network/Wireguard'>Wireguard</a>
 <br/><span class='group'><b>Packaging</b></span>
  | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/Packaging/Bower'>Bower</a>
  | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/Packaging/Conan'>Conan</a>
@@ -221,20 +224,20 @@ Markdown sources for all the cheat sheets found at https://code-helper.teqsoft.x
  | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/Windows/registry'>registry</a>
  | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/Windows/wmic'>wmic</a>
 <br/><span class='group'><b>Kubernetes</b></span>
- | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/Kubernetes/Helm Templates'>Helm Templates</a>
- | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/Kubernetes/Helm'>Helm</a>
- | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/Kubernetes/Minikube'>Minikube</a>
- | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/Kubernetes/Minishift'>Minishift</a>
- | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/Kubernetes/Openshift'>Openshift</a>
- | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/Kubernetes/PKS'>PKS</a>
- | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/Kubernetes/Prometheus'>Prometheus</a>
- | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/Kubernetes/kops'>kops</a>
- | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/Kubernetes/kubectl'>kubectl</a>
- | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/Kubernetes/kubernetes ConfigMap'>kubernetes ConfigMap</a>
- | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/Kubernetes/kubernetes DNS'>kubernetes DNS</a>
- | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/Kubernetes/kubernetes StorageClass'>kubernetes StorageClass</a>
- | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/Kubernetes/kubernetes'>kubernetes</a>
- | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/Kubernetes/nginx-ingress'>nginx-ingress</a>
+ | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/kubernetes/Helm Templates'>Helm Templates</a>
+ | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/kubernetes/Helm'>Helm</a>
+ | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/kubernetes/Minikube'>Minikube</a>
+ | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/kubernetes/Minishift'>Minishift</a>
+ | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/kubernetes/Openshift'>Openshift</a>
+ | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/kubernetes/PKS'>PKS</a>
+ | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/kubernetes/Prometheus'>Prometheus</a>
+ | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/kubernetes/kops'>kops</a>
+ | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/kubernetes/kubectl'>kubectl</a>
+ | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/kubernetes/kubernetes ConfigMap'>kubernetes ConfigMap</a>
+ | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/kubernetes/kubernetes DNS'>kubernetes DNS</a>
+ | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/kubernetes/kubernetes StorageClass'>kubernetes StorageClass</a>
+ | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/kubernetes/kubernetes'>kubernetes</a>
+ | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/kubernetes/nginx-ingress'>nginx-ingress</a>
 
 ## Examples Index
 

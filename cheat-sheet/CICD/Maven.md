@@ -61,3 +61,7 @@ Simple stuff
 
     mvn -Declipse.workspace=<path> eclipse:add-maven-repo
     mvn eclipse:eclipse
+
+#### Jenkins Maven Plugin
+
+-   [Jenkins Maven Plugin](https://github.com/davidmoten/aws-maven-plugin)

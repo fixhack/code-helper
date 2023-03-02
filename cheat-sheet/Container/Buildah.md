@@ -32,3 +32,4 @@ Note that most `docker` parameters can be used with Buildah.
     buildah manifest push --all m <some target>
 
 See also [https://danmanners.com/posts/2022-01-buildah-multi-arch/](https://danmanners.com/posts/2022-01-buildah-multi-arch/)
+[Getting Started](https://developers.redhat.com/blog/2021/01/11/getting-started-with-buildah#installing_buildah)
