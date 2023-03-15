@@ -1,5 +1,15 @@
 ## Branches
 
+### Init
+
+Create normal repository 
+
+    git init                                    # creates .git directory
+
+Creates bare repository
+
+    gir init --base /path/to/repo.git           # like Github
+
 ### Create New Branch
 
 Create a new git branch and switch to it

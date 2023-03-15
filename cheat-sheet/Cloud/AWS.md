@@ -175,3 +175,5 @@ Filtered and blocked API endpoints
    - [How-To Create Stacks](http://darrylcauldwell.com/aws-cloudformation/)
    - [Define Stacks in YAML using Jinja](https://gist.github.com/jheller/c4fa0075e4eccf094769)
    
+- API Gateway
+-   [How to send api gateway request & process integration](https://stackoverflow.com/questions/59597972/how-to-configure-sendingapigateway-and-gettinglambda-request-query-parameter)

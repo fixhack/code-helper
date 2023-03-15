@@ -30,6 +30,7 @@ Markdown sources for all the cheat sheets found at https://code-helper.teqsoft.x
  | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/CICD/Jenkins'>Jenkins</a>
  | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/CICD/JenkinsX'>JenkinsX</a>
  | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/CICD/Maven'>Maven</a>
+ | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/CICD/SVN'>Maven</a>
 <br/><span class='group'><b>Cloud</b></span>
  | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/Cloud/ARM'>ARM</a>
  | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/Cloud/AWS Lamba'>AWS Lamba</a>
@@ -238,6 +239,12 @@ Markdown sources for all the cheat sheets found at https://code-helper.teqsoft.x
  | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/kubernetes/kubernetes StorageClass'>kubernetes StorageClass</a>
  | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/kubernetes/kubernetes'>kubernetes</a>
  | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/kubernetes/nginx-ingress'>nginx-ingress</a>
+<br/><span class='group'><b>Swift</b></span>
+ | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/Swift/Xcode'>Xcode</a>
+ | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/Swift/SwiftUI'>SwiftUI</a>
+<br/><span class='group'><b>Raspberry</b></span>
+ | <a class='topic' href='https://code-helper.teqsoft.xyz/cheat-sheet/RaspServer/Installation'>Xcode</a>
+
 
 ## Examples Index
 
